@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pga:home|Door43 (pga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pga|d43-pga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pga/archive/master.zip|d43-pga.zip]]
+
+**Recent Changes**
+{{changes>ns = pga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pga|Ethnologue data]]
+
