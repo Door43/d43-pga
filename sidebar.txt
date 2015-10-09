@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/pga|Ethnologue data]]
 
-
 **Resources**
 
   * [[pga:obs|Open Bible Stories (pga)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:pga:obs:status}}
